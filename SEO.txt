@@ -1,0 +1,9 @@
+
+SEO:
+
+- Agregué meta description.
+
+- Agregué meta keywords.
+
+- Agregué encabezados H1 y H2.
+
